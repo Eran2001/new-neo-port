@@ -1,5 +1,5 @@
 import './MyWork.css'
-import mywork_data from '../../../public/mywork_data'
+import mywork_data from '../../../public/mywork_data.js'
 
 const MyWork = () => {
   return (
